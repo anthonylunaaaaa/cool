@@ -1,0 +1,47 @@
+html, body{         /*this is a comment*/
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: normal;
+
+
+}
+
+#image1 img {
+
+margin: 20px;
+border: 2px dotted blueviolet;
+padding: 10px;
+
+}
+
+video{
+
+margin: 30px;
+border: 5px solid violet;
+padding: 40px;
+
+}
+
+.media{
+    border: 80px dashed red;
+}
+
+#processing{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    word-spacing: 10%;
+    letter-spacing: 1em;
+    line-height: 2em;
+    padding: 10px;
+    border: 2px solid red;
+    margin: 200px;
+    background-color: rgb(255,3,6,0.1);
+    background-image: url(2.jpeg);
+    background-size: cover;
+}
+
+#processing a:hover{
+    color: green;
+}
